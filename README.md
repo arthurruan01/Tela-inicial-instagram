@@ -12,4 +12,4 @@ Desafio de projetos Santander
 - Introdução a criação de websites com HTML5 e CSS3
 - Posicionamento elementos com flexbox em CSS.
 
-### :computer :computer :computer :computer :computer :computer
+### :computer: :computer: :computer: :computer: :computer: :computer:
